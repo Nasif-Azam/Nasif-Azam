@@ -3,7 +3,7 @@
 <p align="justify">
 To leverage my comprehensive skill set in programming languages, databases, frameworks/libraries, operating systems, and specialized expertise in <b>Data Analysis</b>, <b>Data Engineering</b>, <b>Data Science</b>, <b>Data Mining</b>, <b>Machine Learning (ML)</b>, <b>Artificial Intelligence (AI)</b>, and <b>Algorithms</b> towards a challenging role where I can contribute to innovative projects, solve complex problems, and continuously grow. <br>
 
-I’m a passionate Data Analyst and Data Engineer with a strong foundation in <b>Power BI</b>, <b>Excel</b>, <b>SQL</b>, <b>T-SQL</b>, <b>Data Modeling</b>, and <b>DAX</b>, also have a hands-on experience in <b>Microsoft Fabric</b> items including <b>Lakehouse</b>, <b>Dataflow Gen2</b>, <b>Pipelines</b>, and <b>Warehouses</b>. I bring a blend of analytical thinking and engineering skills to solve complex business problems, build scalable data solutions, and create impactful visualizations.<br>
+I’m a passionate Data Analyst and Data Engineer with a strong foundation in <b>Power BI</b>, <b>Excel</b>, <b>SQL</b>, <b>T-SQL</b>, <b>Data Modeling</b>, and <b>DAX</b>, also have a hands-on experience in <b>Microsoft Fabric</b> items including <b>Lakehouse</b>, <b>Warehouses</b>, <b>Dataflow Gen2</b>, and <b>Pipelines</b> . I bring a blend of analytical thinking and engineering skills to solve complex business problems, build scalable data solutions, and create impactful visualizations.<br>
 Certified in:
 <ul>
   <li>🏅 DP-900: <b>Azure Data Fundamentals</b></li>
