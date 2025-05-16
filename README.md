@@ -1,6 +1,24 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://nasif-azam.web.app/)
 <h1 align="center">Hi 👋, I'm Nasif Azam</h1>
-<h3 align="center">To leverage my various skill set in programming languages, databases, frameworks/libraries, operating systems, and specialized knowledge in data engineering, data science, data mining, machine learning, artificial intelligence, and algorithms towards a challenging role where I can contribute to innovative projects, solve complex problems, and continuously learn and grow in a dynamic and collaborative environment. With experience in solving programs using high-level programming languages, creating AI agents, developing ML models, and designing PLC Ladder Diagrams for 10 PLCs, I aim to further enhance my skills and contribute effectively.</h3>
+<h3 align="center">
+To leverage my comprehensive skill set in programming languages, databases, frameworks/libraries, operating systems, and specialized expertise in Data Analysis, Data Engineering, Data Science, Data Mining, Machine Learning (ML), Artificial Intelligence (AI), and Algorithms towards a challenging role where I can contribute to innovative projects, solve complex problems, and continuously grow. 
+
+I’m a passionate Data Analyst and Data Engineer with a strong foundation in Power BI, Excel, SQL, T-SQL, Data Modeling, and DAX, also have a hands-on experience in Microsoft Fabric items including Lakehouse, Dataflow Gen2, Pipelines, and Warehouses. I bring a blend of analytical thinking and engineering skills to solve complex business problems, build scalable data solutions, and create impactful visualizations.
+
+Certified in:
+🏅 Microsoft Certified: DP-900 (Azure Data Fundamentals)**
+🏅 PL-300 (Power BI Data Analyst Associate)**
+🏅 DP-600 (Microsoft Fabric Analytics Engineer Associate)**
+
+With experience working on projects involving:
+📊 Interactive dashboards using Power BI
+🧮 Data transformations and ETL using SQL, T-SQL, and Fabric Pipelines
+🧠 Data Science and ML model development
+⚙️ Automation and low-code solutions with Power Apps
+📚 Programming with DSA, AI agents, and custom ML workflows
+
+I’m eager to contribute to innovative projects, solve data challenges, and grow continuously in a collaborative, fast-paced environment.
+</h3>
 
 <img align='right' alt='Coding' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
 
