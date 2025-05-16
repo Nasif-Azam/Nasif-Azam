@@ -1,14 +1,14 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://nasif-azam.web.app/)
 <h1 align="center">Hi 👋, I'm Nasif Azam</h1>
-<h3 align="center">
-To leverage my comprehensive skill set in programming languages, databases, frameworks/libraries, operating systems, and specialized expertise in Data Analysis, Data Engineering, Data Science, Data Mining, Machine Learning (ML), Artificial Intelligence (AI), and Algorithms towards a challenging role where I can contribute to innovative projects, solve complex problems, and continuously grow. 
+<h3 align="justify">
+To leverage my comprehensive skill set in programming languages, databases, frameworks/libraries, operating systems, and specialized expertise in Data Analysis, Data Engineering, Data Science, Data Mining, Machine Learning (ML), Artificial Intelligence (AI), and Algorithms towards a challenging role where I can contribute to innovative projects, solve complex problems, and continuously grow. <br>
 
-I’m a passionate Data Analyst and Data Engineer with a strong foundation in Power BI, Excel, SQL, T-SQL, Data Modeling, and DAX, also have a hands-on experience in Microsoft Fabric items including Lakehouse, Dataflow Gen2, Pipelines, and Warehouses. I bring a blend of analytical thinking and engineering skills to solve complex business problems, build scalable data solutions, and create impactful visualizations.
+I’m a passionate Data Analyst and Data Engineer with a strong foundation in Power BI, Excel, SQL, T-SQL, Data Modeling, and DAX, also have a hands-on experience in Microsoft Fabric items including Lakehouse, Dataflow Gen2, Pipelines, and Warehouses. I bring a blend of analytical thinking and engineering skills to solve complex business problems, build scalable data solutions, and create impactful visualizations. <br>
 
 Certified in:
-🏅 Microsoft Certified: DP-900 (Azure Data Fundamentals)**
-🏅 PL-300 (Power BI Data Analyst Associate)**
-🏅 DP-600 (Microsoft Fabric Analytics Engineer Associate)**
+🏅 Microsoft Certified: DP-900 (Azure Data Fundamentals)
+🏅 PL-300 (Power BI Data Analyst Associate)
+🏅 DP-600 (Microsoft Fabric Analytics Engineer Associate)
 
 With experience working on projects involving:
 📊 Interactive dashboards using Power BI
