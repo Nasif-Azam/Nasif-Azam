@@ -6,9 +6,11 @@ To leverage my comprehensive skill set in programming languages, databases, fram
 I’m a passionate Data Analyst and Data Engineer with a strong foundation in Power BI, Excel, SQL, T-SQL, Data Modeling, and DAX, also have a hands-on experience in Microsoft Fabric items including Lakehouse, Dataflow Gen2, Pipelines, and Warehouses. I bring a blend of analytical thinking and engineering skills to solve complex business problems, build scalable data solutions, and create impactful visualizations. <br>
 
 Certified in:
-🏅 Microsoft Certified: DP-900 (Azure Data Fundamentals)
-🏅 PL-300 (Power BI Data Analyst Associate)
-🏅 DP-600 (Microsoft Fabric Analytics Engineer Associate)
+<ul> Certified in:
+  <li>🏅 Microsoft Certified: DP-900 (Azure Data Fundamentals)</li>
+  <li>🏅 PL-300 (Power BI Data Analyst Associate)</li>
+  <li>🏅 DP-600 (Microsoft Fabric Analytics Engineer Associate)</li>
+</ul>
 
 With experience working on projects involving:
 📊 Interactive dashboards using Power BI
