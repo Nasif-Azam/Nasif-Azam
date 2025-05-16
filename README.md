@@ -1,10 +1,12 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://nasif-azam.web.app/)
+
 <h1 align="center">Hi 👋, I'm Nasif Azam</h1>
 <p align="justify">
 To leverage my comprehensive skill set in programming languages, databases, frameworks/libraries, operating systems, and specialized expertise in <b>Data Analysis</b>, <b>Data Engineering</b>, <b>Data Science</b>, <b>Data Mining</b>, <b>Machine Learning (ML)</b>, <b>Artificial Intelligence (AI)</b>, and <b>Algorithms</b> towards a challenging role where I can contribute to innovative projects, solve complex problems, and continuously grow. <br>
 
 I’m a passionate Data Analyst and Data Engineer with a strong foundation in <b>Power BI</b>, <b>Excel</b>, <b>SQL</b>, <b>T-SQL</b>, <b>Data Modeling</b>, and <b>DAX</b>, also have a hands-on experience in <b>Microsoft Fabric</b> items including <b>Lakehouse</b>, <b>Warehouses</b>, <b>Dataflow Gen2</b>, and <b>Pipelines</b> . I bring a blend of analytical thinking and engineering skills to solve complex business problems, build scalable data solutions, and create impactful visualizations.<br>
 Certified in:
+
 <ul>
   <li>🏅 DP-900: <b>Azure Data Fundamentals</b></li>
   <li>🏅 PL-300: <b>Power BI Data Analyst Associate</b></li>
@@ -20,6 +22,7 @@ With experience working on projects involving:
 </ul>
 
 I’m eager to contribute to innovative projects, solve data challenges, and grow continuously in a collaborative, fast-paced environment.
+
 </p>
 
 <img align='right' alt='Coding' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
@@ -81,20 +84,22 @@ I’m eager to contribute to innovative projects, solve data challenges, and gro
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 
 <!-- Power BI -->
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
+</a>
 <!-- Microsoft Fabric -->
-<a href="https://learn.microsoft.com/fabric/" target="_blank" rel="noreferrer"><img src="https://learn.microsoft.com/en-us/media/logos/microsoft-fabric.svg" alt="microsoft-fabric" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/fabric/" target="_blank" rel="noreferrer"><img src="https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming-old-version/Fabric_final_x256.png" alt="microsoft-fabric" width="40" height="40"/></a>
 <!-- Microsoft Azure -->
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/></a>
 <!-- SQL -->
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="sql" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://files.softicons.com/download/system-icons/lozengue-filetype-icons-by-gurato/png/512/SQL.png" alt="sql" width="40" height="40"/></a>
 <!-- T-SQL (represented via SQL Server) -->
 <a href="https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="tsql" width="40" height="40"/></a>
 <!-- DAX -->
-<a href="https://learn.microsoft.com/en-us/dax/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/dax.png" alt="dax" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/en-us/dax/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:544/1*QI4WR1Em1xA8XdifO8b0fA.png" alt="dax" width="40" height="40"/></a>
 
 </p>
 
@@ -103,4 +108,3 @@ I’m eager to contribute to innovative projects, solve data challenges, and gro
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasif-azam&show_icons=true&locale=en" alt="nasif-azam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasif-azam&" alt="nasif-azam" /></p>
-
