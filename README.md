@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://nasif-azam.web.app/)
 <h1 align="center">Hi 👋, I'm Nasif Azam</h1>
-<h4 align="justify">
+<p align="justify">
 To leverage my comprehensive skill set in programming languages, databases, frameworks/libraries, operating systems, and specialized expertise in Data Analysis, Data Engineering, Data Science, Data Mining, Machine Learning (ML), Artificial Intelligence (AI), and Algorithms towards a challenging role where I can contribute to innovative projects, solve complex problems, and continuously grow. <br>
 
 I’m a passionate Data Analyst and Data Engineer with a strong foundation in Power BI, Excel, SQL, T-SQL, Data Modeling, and DAX, also have a hands-on experience in Microsoft Fabric items including Lakehouse, Dataflow Gen2, Pipelines, and Warehouses. I bring a blend of analytical thinking and engineering skills to solve complex business problems, build scalable data solutions, and create impactful visualizations. <br>
@@ -20,7 +20,7 @@ With experience working on projects involving:
 </ul>
 
 I’m eager to contribute to innovative projects, solve data challenges, and grow continuously in a collaborative, fast-paced environment.
-</h4>
+</p>
 
 <img align='right' alt='Coding' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
 
