@@ -26,9 +26,9 @@ I’m eager to contribute to innovative projects, solve data challenges, and gro
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasif-azam&label=Profile%20views&color=0e75b6&style=flat" alt="nasif-azam" /> </p>
 
-- 🔭 I’m currently working on **Wrapper Methods in Features Selection**
+- 🔭 I’m currently working on **Microsoft Power BI and Fabrics**
 
-- 🌱 I’m currently learning **ML, AI, NLP, Data Science, Advance Python, and Django**
+- 🌱 I’m currently learning **Power BI, Fabrics, Azure, Data Analysis, Data Engineering, Data Science, ML, AI, Advance Python**
 
 - 👨‍💻 All of my projects are available at [https://nasif-azam.web.app/](https://nasif-azam.web.app/)
 
