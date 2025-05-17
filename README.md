@@ -1,6 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://nasif-azam.web.app/)
 
-<h1 align="center">Hi 👋, I'm Nasif Azam</h1>
+<h1 align="center">Nasif Azam, a Data Analyst</h1>
+<h1 align="center">3x Microsoft Certify Data Analyst</h1>
 <p align="justify">
 To leverage my comprehensive skill set in programming languages, databases, frameworks/libraries, operating systems, and specialized expertise in <b>Data Analysis</b>, <b>Data Engineering</b>, <b>Data Science</b>, <b>Data Mining</b>, <b>Machine Learning (ML)</b>, <b>Artificial Intelligence (AI)</b>, and <b>Algorithms</b> towards a challenging role where I can contribute to innovative projects, solve complex problems, and continuously grow. <br>
 
